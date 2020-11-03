@@ -1,0 +1,805 @@
+[x] Opening connection to socket.cryptohack.org on port 13377
+[x] Opening connection to socket.cryptohack.org on port 13377: Trying 134.122.111.232
+[+] Opening connection to socket.cryptohack.org on port 13377: Done
+[DEBUG] Received 0x3c bytes:
+    b'{"type": "rot13", "encoded": "terlrfg_Fbaqurvzf_rfcerffbf"}\n'
+Received type: 
+rot13
+Received encoded value: 
+terlrfg_Fbaqurvzf_rfcerffbf
+[DEBUG] Sent 0x2b bytes:
+    b'{"decoded": "greyest_Sondheims_espressos"}\n'
+[DEBUG] Received 0x46 bytes:
+    b'{"type": "bigint", "encoded": "0x706f697365645f626f7a6f735f656d6f73"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x706f697365645f626f7a6f735f656d6f73
+[DEBUG] Sent 0x21 bytes:
+    b'{"decoded": "poised_bozos_emos"}\n'
+[DEBUG] Received 0x39 bytes:
+    b'{"type": "rot13", "encoded": "rdhvgvrf_qebire_fgnzvanf"}\n'
+Received type: 
+rot13
+Received encoded value: 
+rdhvgvrf_qebire_fgnzvanf
+[DEBUG] Sent 0x28 bytes:
+    b'{"decoded": "equities_drover_staminas"}\n'
+[DEBUG] Received 0x9c bytes:
+    b'{"type": "utf-8", "encoded": [102, 117, 116, 117, 114, 101, 115, 95, 100, 105, 115, 109, 97, 121, 105, 110, 103, 95, 77, 105, 116, 99, 104, 101, 108, 115]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[102, 117, 116, 117, 114, 101, 115, 95, 100, 105, 115, 109, 97, 121, 105, 110, 103, 95, 77, 105, 116, 99, 104, 101, 108, 115]
+[DEBUG] Sent 0x2a bytes:
+    b'{"decoded": "futures_dismaying_Mitchels"}\n'
+[DEBUG] Received 0x3a bytes:
+    b'{"type": "rot13", "encoded": "bhgfgevcg_ivoengr_vadhrfg"}\n'
+Received type: 
+rot13
+Received encoded value: 
+bhgfgevcg_ivoengr_vadhrfg
+[DEBUG] Sent 0x29 bytes:
+    b'{"decoded": "outstript_vibrate_inquest"}\n'
+[DEBUG] Received 0x4f bytes:
+    b'{"type": "hex", "encoded": "7175616e74697461746976655f74727566666c655f4c6f75"}\n'
+Received type: 
+hex
+Received encoded value: 
+7175616e74697461746976655f74727566666c655f4c6f75
+[DEBUG] Sent 0x28 bytes:
+    b'{"decoded": "quantitative_truffle_Lou"}\n'
+[DEBUG] Received 0x4d bytes:
+    b'{"type": "hex", "encoded": "6769626c65745f766f7563686572735f46726f6e646573"}\n'
+Received type: 
+hex
+Received encoded value: 
+6769626c65745f766f7563686572735f46726f6e646573
+[DEBUG] Sent 0x27 bytes:
+    b'{"decoded": "giblet_vouchers_Frondes"}\n'
+[DEBUG] Received 0x5f bytes:
+    b'{"type": "hex", "encoded": "746f74616c6974617269616e69736d5f706163696e675f566172616e61736973"}\n'
+Received type: 
+hex
+Received encoded value: 
+746f74616c6974617269616e69736d5f706163696e675f566172616e61736973
+[DEBUG] Sent 0x30 bytes:
+    b'{"decoded": "totalitarianism_pacing_Varanasis"}\n'
+[DEBUG] Received 0x5b bytes:
+    b'{"type": "hex", "encoded": "6164756c746572795f74697265736f6d656e6573735f6578656372617465"}\n'
+Received type: 
+hex
+Received encoded value: 
+6164756c746572795f74697265736f6d656e6573735f6578656372617465
+[DEBUG] Sent 0x2e bytes:
+    b'{"decoded": "adultery_tiresomeness_execrate"}\n'
+[DEBUG] Received 0x50 bytes:
+    b'{"type": "bigint", "encoded": "0x72656973737565735f554253735f70657263616c6573"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x72656973737565735f554253735f70657263616c6573
+[DEBUG] Sent 0x26 bytes:
+    b'{"decoded": "reissues_UBSs_percales"}\n'
+[DEBUG] Received 0x46 bytes:
+    b'{"type": "base64", "encoded": "cGVyYW1idWxhdGVfTG9yaXNfZG9jdG9yaW5n"}\n'
+Received type: 
+base64
+Received encoded value: 
+cGVyYW1idWxhdGVfTG9yaXNfZG9jdG9yaW5n
+[DEBUG] Sent 0x2b bytes:
+    b'{"decoded": "perambulate_Loris_doctoring"}\n'
+[DEBUG] Received 0x46 bytes:
+    b'{"type": "base64", "encoded": "Y2hlcmlzaGVkX2luc29sZXNfU3RlaW5lbXM="}\n'
+Received type: 
+base64
+Received encoded value: 
+Y2hlcmlzaGVkX2luc29sZXNfU3RlaW5lbXM=
+[DEBUG] Sent 0x2a bytes:
+    b'{"decoded": "cherished_insoles_Steinems"}\n'
+[DEBUG] Received 0x4f bytes:
+    b'{"type": "hex", "encoded": "737472696b655f4d61676f6f735f63756c6d696e61746564"}\n'
+Received type: 
+hex
+Received encoded value: 
+737472696b655f4d61676f6f735f63756c6d696e61746564
+[DEBUG] Sent 0x28 bytes:
+    b'{"decoded": "strike_Magoos_culminated"}\n'
+[DEBUG] Received 0x34 bytes:
+    b'{"type": "rot13", "encoded": "negvfgel_farre_shpx"}\n'
+Received type: 
+rot13
+Received encoded value: 
+negvfgel_farre_shpx
+[DEBUG] Sent 0x23 bytes:
+    b'{"decoded": "artistry_sneer_fuck"}\n'
+[DEBUG] Received 0x58 bytes:
+    b'{"type": "bigint", "encoded": "0x637275656c5f696f6e697a6174696f6e5f5370656e676c657273"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x637275656c5f696f6e697a6174696f6e5f5370656e676c657273
+[DEBUG] Sent 0x2a bytes:
+    b'{"decoded": "cruel_ionization_Spenglers"}\n'
+[DEBUG] Received 0x4a bytes:
+    b'{"type": "base64", "encoded": "ZGl2b3JjaW5nX3Jlb3JnYW5pemVkX0ZvcmJlc3M="}\n'
+Received type: 
+base64
+Received encoded value: 
+ZGl2b3JjaW5nX3Jlb3JnYW5pemVkX0ZvcmJlc3M=
+[DEBUG] Sent 0x2d bytes:
+    b'{"decoded": "divorcing_reorganized_Forbess"}\n'
+[DEBUG] Received 0x59 bytes:
+    b'{"type": "hex", "encoded": "6275747465726e7574735f696e746573746174655f77686f6d65766572"}\n'
+Received type: 
+hex
+Received encoded value: 
+6275747465726e7574735f696e746573746174655f77686f6d65766572
+[DEBUG] Sent 0x2d bytes:
+    b'{"decoded": "butternuts_intestate_whomever"}\n'
+[DEBUG] Received 0x60 bytes:
+    b'{"type": "bigint", "encoded": "0x48616d696c746f6e69616e735f6f63686572735f7368616767696e657373"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x48616d696c746f6e69616e735f6f63686572735f7368616767696e657373
+[DEBUG] Sent 0x2e bytes:
+    b'{"decoded": "Hamiltonians_ochers_shagginess"}\n'
+[DEBUG] Received 0x42 bytes:
+    b'{"type": "base64", "encoded": "YnVzdHNfbXVsdGlwbHlpbmdfdW5zZWF0"}\n'
+Received type: 
+base64
+Received encoded value: 
+YnVzdHNfbXVsdGlwbHlpbmdfdW5zZWF0
+[DEBUG] Sent 0x28 bytes:
+    b'{"decoded": "busts_multiplying_unseat"}\n'
+[DEBUG] Received 0x3e bytes:
+    b'{"type": "rot13", "encoded": "Ynbgvna_Zvzbfn_frzvpbaqhpgbef"}\n'
+Received type: 
+rot13
+Received encoded value: 
+Ynbgvna_Zvzbfn_frzvpbaqhpgbef
+[DEBUG] Sent 0x2d bytes:
+    b'{"decoded": "Laotian_Mimosa_semiconductors"}\n'
+[DEBUG] Received 0x65 bytes:
+    b'{"type": "hex", "encoded": "736861726563726f70706572735f696e73746974757465735f617363656e64616e6379"}\n'
+Received type: 
+hex
+Received encoded value: 
+736861726563726f70706572735f696e73746974757465735f617363656e64616e6379
+[DEBUG] Sent 0x33 bytes:
+    b'{"decoded": "sharecroppers_institutes_ascendancy"}\n'
+[DEBUG] Received 0xa6 bytes:
+    b'{"type": "utf-8", "encoded": [98, 105, 118, 97, 108, 118, 101, 95, 97, 115, 116, 111, 110, 105, 115, 104, 105, 110, 103, 95, 102, 111, 117, 114, 116, 104, 108, 121]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[98, 105, 118, 97, 108, 118, 101, 95, 97, 115, 116, 111, 110, 105, 115, 104, 105, 110, 103, 95, 102, 111, 117, 114, 116, 104, 108, 121]
+[DEBUG] Sent 0x2c bytes:
+    b'{"decoded": "bivalve_astonishing_fourthly"}\n'
+[DEBUG] Received 0x42 bytes:
+    b'{"type": "base64", "encoded": "dG9rZW5zX0phbm5hc19hdXRvY3JhY3lz"}\n'
+Received type: 
+base64
+Received encoded value: 
+dG9rZW5zX0phbm5hc19hdXRvY3JhY3lz
+[DEBUG] Sent 0x28 bytes:
+    b'{"decoded": "tokens_Jannas_autocracys"}\n'
+[DEBUG] Received 0x9d bytes:
+    b'{"type": "utf-8", "encoded": [104, 97, 122, 105, 101, 115, 116, 95, 76, 97, 103, 114, 97, 110, 103, 105, 97, 110, 95, 80, 111, 108, 97, 110, 115, 107, 105]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[104, 97, 122, 105, 101, 115, 116, 95, 76, 97, 103, 114, 97, 110, 103, 105, 97, 110, 95, 80, 111, 108, 97, 110, 115, 107, 105]
+[DEBUG] Sent 0x2b bytes:
+    b'{"decoded": "haziest_Lagrangian_Polanski"}\n'
+[DEBUG] Received 0x58 bytes:
+    b'{"type": "bigint", "encoded": "0x646f6d696e617465645f64697374616e6365645f666f64646572"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x646f6d696e617465645f64697374616e6365645f666f64646572
+[DEBUG] Sent 0x2a bytes:
+    b'{"decoded": "dominated_distanced_fodder"}\n'
+[DEBUG] Received 0x56 bytes:
+    b'{"type": "bigint", "encoded": "0x686f7370697461626c795f706f776572686f7573655f646970"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x686f7370697461626c795f706f776572686f7573655f646970
+[DEBUG] Sent 0x29 bytes:
+    b'{"decoded": "hospitably_powerhouse_dip"}\n'
+[DEBUG] Received 0xc4 bytes:
+    b'{"type": "utf-8", "encoded": [67, 104, 114, 105, 115, 116, 111, 112, 101, 114, 95, 103, 101, 115, 117, 110, 100, 104, 101, 105, 116, 95, 97, 110, 116, 97, 103, 111, 110, 105, 122, 105, 110, 103]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[67, 104, 114, 105, 115, 116, 111, 112, 101, 114, 95, 103, 101, 115, 117, 110, 100, 104, 101, 105, 116, 95, 97, 110, 116, 97, 103, 111, 110, 105, 122, 105, 110, 103]
+[DEBUG] Sent 0x32 bytes:
+    b'{"decoded": "Christoper_gesundheit_antagonizing"}\n'
+[DEBUG] Received 0x56 bytes:
+    b'{"type": "base64", "encoded": "YWNrbm93bGVkZ2VtZW50X2NvY2tzdWNrZXJzX3Ntb2tlaG91c2Vz"}\n'
+Received type: 
+base64
+Received encoded value: 
+YWNrbm93bGVkZ2VtZW50X2NvY2tzdWNrZXJzX3Ntb2tlaG91c2Vz
+[DEBUG] Sent 0x37 bytes:
+    b'{"decoded": "acknowledgement_cocksuckers_smokehouses"}\n'
+[DEBUG] Received 0x3a bytes:
+    b'{"type": "rot13", "encoded": "dhrfgvbare_ivtvyf_pbzzrag"}\n'
+Received type: 
+rot13
+Received encoded value: 
+dhrfgvbare_ivtvyf_pbzzrag
+[DEBUG] Sent 0x29 bytes:
+    b'{"decoded": "questioner_vigils_comment"}\n'
+[DEBUG] Received 0x63 bytes:
+    b'{"type": "hex", "encoded": "74756d626c65776565645f70726f6e6f756e63656d656e74735f6d69746967617465"}\n'
+Received type: 
+hex
+Received encoded value: 
+74756d626c65776565645f70726f6e6f756e63656d656e74735f6d69746967617465
+[DEBUG] Sent 0x32 bytes:
+    b'{"decoded": "tumbleweed_pronouncements_mitigate"}\n'
+[DEBUG] Received 0x3d bytes:
+    b'{"type": "rot13", "encoded": "Treneqb_rnfgobhaq_Tbetbambyn"}\n'
+Received type: 
+rot13
+Received encoded value: 
+Treneqb_rnfgobhaq_Tbetbambyn
+[DEBUG] Sent 0x2c bytes:
+    b'{"decoded": "Gerardo_eastbound_Gorgonzola"}\n'
+[DEBUG] Received 0x36 bytes:
+    b'{"type": "rot13", "encoded": "cebbs_arbculgrf_Oybpu"}\n'
+Received type: 
+rot13
+Received encoded value: 
+cebbs_arbculgrf_Oybpu
+[DEBUG] Sent 0x25 bytes:
+    b'{"decoded": "proof_neophytes_Bloch"}\n'
+[DEBUG] Received 0x62 bytes:
+    b'{"type": "bigint", "encoded": "0x696d6d6f62696c697a65735f6167677261766174696e675f77617272656e73"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x696d6d6f62696c697a65735f6167677261766174696e675f77617272656e73
+[DEBUG] Sent 0x2f bytes:
+    b'{"decoded": "immobilizes_aggravating_warrens"}\n'
+[DEBUG] Received 0x46 bytes:
+    b'{"type": "base64", "encoded": "ZGlzdHVyYmVkX0VsdG9uc19kZW1vbGlzaGVz"}\n'
+Received type: 
+base64
+Received encoded value: 
+ZGlzdHVyYmVkX0VsdG9uc19kZW1vbGlzaGVz
+[DEBUG] Sent 0x2b bytes:
+    b'{"decoded": "disturbed_Eltons_demolishes"}\n'
+[DEBUG] Received 0x8b bytes:
+    b'{"type": "utf-8", "encoded": [89, 97, 107, 117, 116, 115, 95, 104, 111, 108, 111, 99, 97, 117, 115, 116, 95, 114, 101, 99, 105, 112, 101]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[89, 97, 107, 117, 116, 115, 95, 104, 111, 108, 111, 99, 97, 117, 115, 116, 95, 114, 101, 99, 105, 112, 101]
+[DEBUG] Sent 0x27 bytes:
+    b'{"decoded": "Yakuts_holocaust_recipe"}\n'
+[DEBUG] Received 0x42 bytes:
+    b'{"type": "base64", "encoded": "RnJpZWRhbnNfdGhhbmtmdWxfQXR0bGVl"}\n'
+Received type: 
+base64
+Received encoded value: 
+RnJpZWRhbnNfdGhhbmtmdWxfQXR0bGVl
+[DEBUG] Sent 0x28 bytes:
+    b'{"decoded": "Friedans_thankful_Attlee"}\n'
+[DEBUG] Received 0x40 bytes:
+    b'{"type": "rot13", "encoded": "xvgpurajnerf_Bppvqrag_rwnphyngr"}\n'
+Received type: 
+rot13
+Received encoded value: 
+xvgpurajnerf_Bppvqrag_rwnphyngr
+[DEBUG] Sent 0x2f bytes:
+    b'{"decoded": "kitchenwares_Occident_ejaculate"}\n'
+[DEBUG] Received 0x4e bytes:
+    b'{"type": "base64", "encoded": "ZGV0cmFjdG9yc19yaXNrc19hZ2dsb21lcmF0aW9ucw=="}\n'
+Received type: 
+base64
+Received encoded value: 
+ZGV0cmFjdG9yc19yaXNrc19hZ2dsb21lcmF0aW9ucw==
+[DEBUG] Sent 0x2f bytes:
+    b'{"decoded": "detractors_risks_agglomerations"}\n'
+[DEBUG] Received 0x95 bytes:
+    b'{"type": "utf-8", "encoded": [83, 117, 119, 97, 110, 101, 101, 115, 95, 98, 111, 111, 107, 119, 111, 114, 109, 115, 95, 112, 101, 97, 99, 104, 115]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[83, 117, 119, 97, 110, 101, 101, 115, 95, 98, 111, 111, 107, 119, 111, 114, 109, 115, 95, 112, 101, 97, 99, 104, 115]
+[DEBUG] Sent 0x29 bytes:
+    b'{"decoded": "Suwanees_bookworms_peachs"}\n'
+[DEBUG] Received 0x7f bytes:
+    b'{"type": "utf-8", "encoded": [116, 97, 109, 112, 111, 110, 95, 115, 119, 105, 102, 116, 95, 105, 109, 97, 103, 105, 110, 103]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[116, 97, 109, 112, 111, 110, 95, 115, 119, 105, 102, 116, 95, 105, 109, 97, 103, 105, 110, 103]
+[DEBUG] Sent 0x24 bytes:
+    b'{"decoded": "tampon_swift_imaging"}\n'
+[DEBUG] Received 0xa6 bytes:
+    b'{"type": "utf-8", "encoded": [119, 111, 114, 107, 115, 116, 97, 116, 105, 111, 110, 115, 95, 113, 117, 97, 104, 97, 117, 103, 115, 95, 115, 117, 115, 104, 105, 115]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[119, 111, 114, 107, 115, 116, 97, 116, 105, 111, 110, 115, 95, 113, 117, 97, 104, 97, 117, 103, 115, 95, 115, 117, 115, 104, 105, 115]
+[DEBUG] Sent 0x2c bytes:
+    b'{"decoded": "workstations_quahaugs_sushis"}\n'
+[DEBUG] Received 0x4a bytes:
+    b'{"type": "base64", "encoded": "VmFsZW50aW5lc19kZXBsYW5lc19zcXVhYmJsZXM="}\n'
+Received type: 
+base64
+Received encoded value: 
+VmFsZW50aW5lc19kZXBsYW5lc19zcXVhYmJsZXM=
+[DEBUG] Sent 0x2d bytes:
+    b'{"decoded": "Valentines_deplanes_squabbles"}\n'
+[DEBUG] Received 0x55 bytes:
+    b'{"type": "hex", "encoded": "436f6f6c65795f696e68756d616e6c795f63656e74656e6e69616c"}\n'
+Received type: 
+hex
+Received encoded value: 
+436f6f6c65795f696e68756d616e6c795f63656e74656e6e69616c
+[DEBUG] Sent 0x2b bytes:
+    b'{"decoded": "Cooley_inhumanly_centennial"}\n'
+[DEBUG] Received 0x49 bytes:
+    b'{"type": "hex", "encoded": "4a6f617175696e5f6c616e65735f4b6977616e6973"}\n'
+Received type: 
+hex
+Received encoded value: 
+4a6f617175696e5f6c616e65735f4b6977616e6973
+[DEBUG] Sent 0x25 bytes:
+    b'{"decoded": "Joaquin_lanes_Kiwanis"}\n'
+[DEBUG] Received 0x46 bytes:
+    b'{"type": "base64", "encoded": "aGVjdGFyZV9hdmVycmVkX2NoYW5jZXJpZXM="}\n'
+Received type: 
+base64
+Received encoded value: 
+aGVjdGFyZV9hdmVycmVkX2NoYW5jZXJpZXM=
+[DEBUG] Sent 0x2a bytes:
+    b'{"decoded": "hectare_averred_chanceries"}\n'
+[DEBUG] Received 0x55 bytes:
+    b'{"type": "hex", "encoded": "7065726368616e63655f4167757374696e735f6d61676e65746f73"}\n'
+Received type: 
+hex
+Received encoded value: 
+7065726368616e63655f4167757374696e735f6d61676e65746f73
+[DEBUG] Sent 0x2b bytes:
+    b'{"decoded": "perchance_Agustins_magnetos"}\n'
+[DEBUG] Received 0x3b bytes:
+    b'{"type": "rot13", "encoded": "fjnoorq_pyvavpf_tvtncvkryf"}\n'
+Received type: 
+rot13
+Received encoded value: 
+fjnoorq_pyvavpf_tvtncvkryf
+[DEBUG] Sent 0x2a bytes:
+    b'{"decoded": "swabbed_clinics_gigapixels"}\n'
+[DEBUG] Received 0x4d bytes:
+    b'{"type": "hex", "encoded": "636861726d6572735f6d6561645f666163746f74756d73"}\n'
+Received type: 
+hex
+Received encoded value: 
+636861726d6572735f6d6561645f666163746f74756d73
+[DEBUG] Sent 0x27 bytes:
+    b'{"decoded": "charmers_mead_factotums"}\n'
+[DEBUG] Received 0x42 bytes:
+    b'{"type": "base64", "encoded": "Y2FyYXdheXNfYmFyYnNfTGltcG9wb3M="}\n'
+Received type: 
+base64
+Received encoded value: 
+Y2FyYXdheXNfYmFyYnNfTGltcG9wb3M=
+[DEBUG] Sent 0x27 bytes:
+    b'{"decoded": "caraways_barbs_Limpopos"}\n'
+[DEBUG] Received 0x64 bytes:
+    b'{"type": "bigint", "encoded": "0x6a756469636174757265735f666172726f77696e675f44656d6f637261746963"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x6a756469636174757265735f666172726f77696e675f44656d6f637261746963
+[DEBUG] Sent 0x30 bytes:
+    b'{"decoded": "judicatures_farrowing_Democratic"}\n'
+[DEBUG] Received 0x3c bytes:
+    b'{"type": "rot13", "encoded": "nhghzaf_Yvirecbby_nfpregnva"}\n'
+Received type: 
+rot13
+Received encoded value: 
+nhghzaf_Yvirecbby_nfpregnva
+[DEBUG] Sent 0x2b bytes:
+    b'{"decoded": "autumns_Liverpool_ascertain"}\n'
+[DEBUG] Received 0x51 bytes:
+    b'{"type": "hex", "encoded": "666f7274655f4d616861726173687472615f6e6970706c6573"}\n'
+Received type: 
+hex
+Received encoded value: 
+666f7274655f4d616861726173687472615f6e6970706c6573
+[DEBUG] Sent 0x29 bytes:
+    b'{"decoded": "forte_Maharashtra_nipples"}\n'
+[DEBUG] Received 0x5e bytes:
+    b'{"type": "bigint", "encoded": "0x54616d696b615f6f76657268656172645f6964696f73796e6372617379"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x54616d696b615f6f76657268656172645f6964696f73796e6372617379
+[DEBUG] Sent 0x2d bytes:
+    b'{"decoded": "Tamika_overheard_idiosyncrasy"}\n'
+[DEBUG] Received 0x89 bytes:
+    b'{"type": "utf-8", "encoded": [98, 117, 115, 115, 105, 110, 103, 115, 95, 119, 111, 111, 100, 109, 101, 110, 95, 112, 97, 116, 104, 115]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[98, 117, 115, 115, 105, 110, 103, 115, 95, 119, 111, 111, 100, 109, 101, 110, 95, 112, 97, 116, 104, 115]
+[DEBUG] Sent 0x26 bytes:
+    b'{"decoded": "bussings_woodmen_paths"}\n'
+[DEBUG] Received 0x54 bytes:
+    b'{"type": "bigint", "encoded": "0x637572666577735f416c64616e5f657863757273696f6e73"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x637572666577735f416c64616e5f657863757273696f6e73
+[DEBUG] Sent 0x28 bytes:
+    b'{"decoded": "curfews_Aldan_excursions"}\n'
+[DEBUG] Received 0x4b bytes:
+    b'{"type": "hex", "encoded": "77656c74735f546174655f7265636f76657261626c65"}\n'
+Received type: 
+hex
+Received encoded value: 
+77656c74735f546174655f7265636f76657261626c65
+[DEBUG] Sent 0x26 bytes:
+    b'{"decoded": "welts_Tate_recoverable"}\n'
+[DEBUG] Received 0x60 bytes:
+    b'{"type": "bigint", "encoded": "0x50616c6c6164696f5f696e636f6e73697374656e636965735f6465657273"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x50616c6c6164696f5f696e636f6e73697374656e636965735f6465657273
+[DEBUG] Sent 0x2e bytes:
+    b'{"decoded": "Palladio_inconsistencies_deers"}\n'
+[DEBUG] Received 0x66 bytes:
+    b'{"type": "bigint", "encoded": "0x616d6e696f63656e74657369735f666174616c69746965735f74776164646c6564"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x616d6e696f63656e74657369735f666174616c69746965735f74776164646c6564
+[DEBUG] Sent 0x31 bytes:
+    b'{"decoded": "amniocentesis_fatalities_twaddled"}\n'
+[DEBUG] Received 0x3e bytes:
+    b'{"type": "rot13", "encoded": "gryrfpbcvat_sebfgvre_frffvbaf"}\n'
+Received type: 
+rot13
+Received encoded value: 
+gryrfpbcvat_sebfgvre_frffvbaf
+[DEBUG] Sent 0x2d bytes:
+    b'{"decoded": "telescoping_frostier_sessions"}\n'
+[DEBUG] Received 0x46 bytes:
+    b'{"type": "base64", "encoded": "YW50aWNpcGF0aW9uc19nb2xkc19jb3Jkcw=="}\n'
+Received type: 
+base64
+Received encoded value: 
+YW50aWNpcGF0aW9uc19nb2xkc19jb3Jkcw==
+[DEBUG] Sent 0x29 bytes:
+    b'{"decoded": "anticipations_golds_cords"}\n'
+[DEBUG] Received 0x93 bytes:
+    b'{"type": "utf-8", "encoded": [81, 117, 105, 120, 111, 116, 101, 95, 115, 112, 111, 111, 107, 101, 100, 95, 105, 110, 99, 117, 114, 114, 101, 100]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[81, 117, 105, 120, 111, 116, 101, 95, 115, 112, 111, 111, 107, 101, 100, 95, 105, 110, 99, 117, 114, 114, 101, 100]
+[DEBUG] Sent 0x28 bytes:
+    b'{"decoded": "Quixote_spooked_incurred"}\n'
+[DEBUG] Received 0x42 bytes:
+    b'{"type": "base64", "encoded": "ZGFpbnR5X2hhcmtlbnNfYXVkaXRvcnM="}\n'
+Received type: 
+base64
+Received encoded value: 
+ZGFpbnR5X2hhcmtlbnNfYXVkaXRvcnM=
+[DEBUG] Sent 0x27 bytes:
+    b'{"decoded": "dainty_harkens_auditors"}\n'
+[DEBUG] Received 0x39 bytes:
+    b'{"type": "rot13", "encoded": "chaqvg_jrnenoyr_pernfvat"}\n'
+Received type: 
+rot13
+Received encoded value: 
+chaqvg_jrnenoyr_pernfvat
+[DEBUG] Sent 0x28 bytes:
+    b'{"decoded": "pundit_wearable_creasing"}\n'
+[DEBUG] Received 0x46 bytes:
+    b'{"type": "base64", "encoded": "bWlzZmlyaW5nX2phbGFwZcOxb19mb3JkZWQ="}\n'
+Received type: 
+base64
+Received encoded value: 
+bWlzZmlyaW5nX2phbGFwZcOxb19mb3JkZWQ=
+[DEBUG] Sent 0x2e bytes:
+    b'{"decoded": "misfiring_jalape\\u00f1o_forded"}\n'
+[DEBUG] Received 0x3e bytes:
+    b'{"type": "base64", "encoded": "a2Vuc19Db25ncmV2ZV9zaXp6bGVk"}\n'
+Received type: 
+base64
+Received encoded value: 
+a2Vuc19Db25ncmV2ZV9zaXp6bGVk
+[DEBUG] Sent 0x25 bytes:
+    b'{"decoded": "kens_Congreve_sizzled"}\n'
+[DEBUG] Received 0x3a bytes:
+    b'{"type": "rot13", "encoded": "bccbfvgr_Rhtrarf_sbaqyvat"}\n'
+Received type: 
+rot13
+Received encoded value: 
+bccbfvgr_Rhtrarf_sbaqyvat
+[DEBUG] Sent 0x29 bytes:
+    b'{"decoded": "opposite_Eugenes_fondling"}\n'
+[DEBUG] Received 0x5d bytes:
+    b'{"type": "hex", "encoded": "486f6c69646179735f6c696269646f735f696d6d6f62696c697a6174696f6e"}\n'
+Received type: 
+hex
+Received encoded value: 
+486f6c69646179735f6c696269646f735f696d6d6f62696c697a6174696f6e
+[DEBUG] Sent 0x2f bytes:
+    b'{"decoded": "Holidays_libidos_immobilization"}\n'
+[DEBUG] Received 0x57 bytes:
+    b'{"type": "hex", "encoded": "6175746f6d617469635f7265737570706c6965735f63686170656c73"}\n'
+Received type: 
+hex
+Received encoded value: 
+6175746f6d617469635f7265737570706c6965735f63686170656c73
+[DEBUG] Sent 0x2c bytes:
+    b'{"decoded": "automatic_resupplies_chapels"}\n'
+[DEBUG] Received 0x56 bytes:
+    b'{"type": "bigint", "encoded": "0x736c656574735f73657276696e67735f4d6163446f6e616c64"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x736c656574735f73657276696e67735f4d6163446f6e616c64
+[DEBUG] Sent 0x29 bytes:
+    b'{"decoded": "sleets_servings_MacDonald"}\n'
+[DEBUG] Received 0x3e bytes:
+    b'{"type": "base64", "encoded": "aW5jbGluZXNfZG9kZ2VyX2RpbGxz"}\n'
+Received type: 
+base64
+Received encoded value: 
+aW5jbGluZXNfZG9kZ2VyX2RpbGxz
+[DEBUG] Sent 0x25 bytes:
+    b'{"decoded": "inclines_dodger_dills"}\n'
+[DEBUG] Received 0x42 bytes:
+    b'{"type": "base64", "encoded": "U2VncmVfZmxpZ2h0c19BdWd1c3RhbnM="}\n'
+Received type: 
+base64
+Received encoded value: 
+U2VncmVfZmxpZ2h0c19BdWd1c3RhbnM=
+[DEBUG] Sent 0x27 bytes:
+    b'{"decoded": "Segre_flights_Augustans"}\n'
+[DEBUG] Received 0x42 bytes:
+    b'{"type": "base64", "encoded": "c3VidGxlc3RfSG9uZGFfbHluY2hwaW5z"}\n'
+Received type: 
+base64
+Received encoded value: 
+c3VidGxlc3RfSG9uZGFfbHluY2hwaW5z
+[DEBUG] Sent 0x28 bytes:
+    b'{"decoded": "subtlest_Honda_lynchpins"}\n'
+[DEBUG] Received 0x56 bytes:
+    b'{"type": "bigint", "encoded": "0x756e646572706179696e675f6572726174756d5f7472616d73"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x756e646572706179696e675f6572726174756d5f7472616d73
+[DEBUG] Sent 0x29 bytes:
+    b'{"decoded": "underpaying_erratum_trams"}\n'
+[DEBUG] Received 0x46 bytes:
+    b'{"type": "base64", "encoded": "U2N5dGhpYV9vbndhcmRfZ2FybmlzaGVlZA=="}\n'
+Received type: 
+base64
+Received encoded value: 
+U2N5dGhpYV9vbndhcmRfZ2FybmlzaGVlZA==
+[DEBUG] Sent 0x29 bytes:
+    b'{"decoded": "Scythia_onward_garnisheed"}\n'
+[DEBUG] Received 0x51 bytes:
+    b'{"type": "hex", "encoded": "7265766f6c7574696f6e735f416374735f70726f776c657273"}\n'
+Received type: 
+hex
+Received encoded value: 
+7265766f6c7574696f6e735f416374735f70726f776c657273
+[DEBUG] Sent 0x29 bytes:
+    b'{"decoded": "revolutions_Acts_prowlers"}\n'
+[DEBUG] Received 0x42 bytes:
+    b'{"type": "rot13", "encoded": "crevcurenyf_fyvpxrfg_frzvpvephyne"}\n'
+Received type: 
+rot13
+Received encoded value: 
+crevcurenyf_fyvpxrfg_frzvpvephyne
+[DEBUG] Sent 0x31 bytes:
+    b'{"decoded": "peripherals_slickest_semicircular"}\n'
+[DEBUG] Received 0x52 bytes:
+    b'{"type": "base64", "encoded": "Q2luZGVyZWxsYXNfY2hhbXBhZ25lc19yZWZvcm1hdG9yaWVz"}\n'
+Received type: 
+base64
+Received encoded value: 
+Q2luZGVyZWxsYXNfY2hhbXBhZ25lc19yZWZvcm1hdG9yaWVz
+[DEBUG] Sent 0x34 bytes:
+    b'{"decoded": "Cinderellas_champagnes_reformatories"}\n'
+[DEBUG] Received 0x58 bytes:
+    b'{"type": "bigint", "encoded": "0x506f6d706569695f70726561636865735f706564696d656e7473"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x506f6d706569695f70726561636865735f706564696d656e7473
+[DEBUG] Sent 0x2a bytes:
+    b'{"decoded": "Pompeii_preaches_pediments"}\n'
+[DEBUG] Received 0x51 bytes:
+    b'{"type": "hex", "encoded": "73696c74696e675f7368616d726f636b735f7461636b696e67"}\n'
+Received type: 
+hex
+Received encoded value: 
+73696c74696e675f7368616d726f636b735f7461636b696e67
+[DEBUG] Sent 0x29 bytes:
+    b'{"decoded": "silting_shamrocks_tacking"}\n'
+[DEBUG] Received 0xa1 bytes:
+    b'{"type": "utf-8", "encoded": [97, 115, 115, 101, 116, 115, 95, 116, 114, 97, 110, 115, 111, 109, 95, 105, 110, 100, 101, 110, 116, 97, 116, 105, 111, 110, 115]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[97, 115, 115, 101, 116, 115, 95, 116, 114, 97, 110, 115, 111, 109, 95, 105, 110, 100, 101, 110, 116, 97, 116, 105, 111, 110, 115]
+[DEBUG] Sent 0x2b bytes:
+    b'{"decoded": "assets_transom_indentations"}\n'
+[DEBUG] Received 0x52 bytes:
+    b'{"type": "bigint", "encoded": "0x697272616469617465645f726f77647969736d5f706f74"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x697272616469617465645f726f77647969736d5f706f74
+[DEBUG] Sent 0x27 bytes:
+    b'{"decoded": "irradiated_rowdyism_pot"}\n'
+[DEBUG] Received 0x34 bytes:
+    b'{"type": "rot13", "encoded": "ahzorfg_Znetb_shmrf"}\n'
+Received type: 
+rot13
+Received encoded value: 
+ahzorfg_Znetb_shmrf
+[DEBUG] Sent 0x23 bytes:
+    b'{"decoded": "numbest_Margo_fuzes"}\n'
+[DEBUG] Received 0x4e bytes:
+    b'{"type": "base64", "encoded": "aXNvbGF0aW9uaXN0X3ByZWVtcHRpbmdfdHJ1bmtpbmc="}\n'
+Received type: 
+base64
+Received encoded value: 
+aXNvbGF0aW9uaXN0X3ByZWVtcHRpbmdfdHJ1bmtpbmc=
+[DEBUG] Sent 0x30 bytes:
+    b'{"decoded": "isolationist_preempting_trunking"}\n'
+[DEBUG] Received 0x78 bytes:
+    b'{"type": "utf-8", "encoded": [99, 97, 118, 101, 97, 116, 95, 106, 117, 110, 107, 95, 112, 104, 114, 97, 115, 101, 115]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[99, 97, 118, 101, 97, 116, 95, 106, 117, 110, 107, 95, 112, 104, 114, 97, 115, 101, 115]
+[DEBUG] Sent 0x23 bytes:
+    b'{"decoded": "caveat_junk_phrases"}\n'
+[DEBUG] Received 0x95 bytes:
+    b'{"type": "utf-8", "encoded": [112, 114, 101, 115, 101, 110, 116, 105, 109, 101, 110, 116, 115, 95, 100, 111, 122, 101, 115, 95, 115, 108, 105, 112]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[112, 114, 101, 115, 101, 110, 116, 105, 109, 101, 110, 116, 115, 95, 100, 111, 122, 101, 115, 95, 115, 108, 105, 112]
+[DEBUG] Sent 0x28 bytes:
+    b'{"decoded": "presentiments_dozes_slip"}\n'
+[DEBUG] Received 0xc3 bytes:
+    b'{"type": "utf-8", "encoded": [119, 111, 111, 100, 99, 117, 116, 116, 105, 110, 103, 115, 95, 87, 111, 110, 100, 101, 114, 98, 114, 97, 115, 95, 102, 111, 114, 116, 104, 114, 105, 103, 104, 116]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[119, 111, 111, 100, 99, 117, 116, 116, 105, 110, 103, 115, 95, 87, 111, 110, 100, 101, 114, 98, 114, 97, 115, 95, 102, 111, 114, 116, 104, 114, 105, 103, 104, 116]
+[DEBUG] Sent 0x32 bytes:
+    b'{"decoded": "woodcuttings_Wonderbras_forthright"}\n'
+[DEBUG] Received 0x4a bytes:
+    b'{"type": "base64", "encoded": "aGFtbW9ja3NfcHJvdHJhY3RvcnNfZGlzc3VhZGVk"}\n'
+Received type: 
+base64
+Received encoded value: 
+aGFtbW9ja3NfcHJvdHJhY3RvcnNfZGlzc3VhZGVk
+[DEBUG] Sent 0x2e bytes:
+    b'{"decoded": "hammocks_protractors_dissuaded"}\n'
+[DEBUG] Received 0x4a bytes:
+    b'{"type": "base64", "encoded": "YnVja2JvYXJkc19jYW5vcGllZF9jYXRhbG9ncw=="}\n'
+Received type: 
+base64
+Received encoded value: 
+YnVja2JvYXJkc19jYW5vcGllZF9jYXRhbG9ncw==
+[DEBUG] Sent 0x2c bytes:
+    b'{"decoded": "buckboards_canopied_catalogs"}\n'
+[DEBUG] Received 0x3f bytes:
+    b'{"type": "rot13", "encoded": "Xehtreenaq_erpgbe_ryrpgevpnyyl"}\n'
+Received type: 
+rot13
+Received encoded value: 
+Xehtreenaq_erpgbe_ryrpgevpnyyl
+[DEBUG] Sent 0x2e bytes:
+    b'{"decoded": "Krugerrand_rector_electrically"}\n'
+[DEBUG] Received 0x62 bytes:
+    b'{"type": "bigint", "encoded": "0x617474656e756174696f6e5f627275736b6573745f61726269747261746f72"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x617474656e756174696f6e5f627275736b6573745f61726269747261746f72
+[DEBUG] Sent 0x2f bytes:
+    b'{"decoded": "attenuation_bruskest_arbitrator"}\n'
+[DEBUG] Received 0x55 bytes:
+    b'{"type": "hex", "encoded": "62696f666565646261636b5f4272656d656e735f756e63616e6e79"}\n'
+Received type: 
+hex
+Received encoded value: 
+62696f666565646261636b5f4272656d656e735f756e63616e6e79
+[DEBUG] Sent 0x2b bytes:
+    b'{"decoded": "biofeedback_Bremens_uncanny"}\n'
+[DEBUG] Received 0x42 bytes:
+    b'{"type": "base64", "encoded": "bWF0Y2hib29rX2xlZ3NfcmV0cmVhZGVk"}\n'
+Received type: 
+base64
+Received encoded value: 
+bWF0Y2hib29rX2xlZ3NfcmV0cmVhZGVk
+[DEBUG] Sent 0x28 bytes:
+    b'{"decoded": "matchbook_legs_retreaded"}\n'
+[DEBUG] Received 0x4f bytes:
+    b'{"type": "hex", "encoded": "737075726e5f736c6577735f636f756e7465726d616e6473"}\n'
+Received type: 
+hex
+Received encoded value: 
+737075726e5f736c6577735f636f756e7465726d616e6473
+[DEBUG] Sent 0x28 bytes:
+    b'{"decoded": "spurn_slews_countermands"}\n'
+[DEBUG] Received 0x5c bytes:
+    b'{"type": "bigint", "encoded": "0x6f726967696e61746f72735f6164616d616e745f7069676769657374"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x6f726967696e61746f72735f6164616d616e745f7069676769657374
+[DEBUG] Sent 0x2c bytes:
+    b'{"decoded": "originators_adamant_piggiest"}\n'
+[DEBUG] Received 0x3e bytes:
+    b'{"type": "base64", "encoded": "QXJnb3Nfc3RyZXdzX2VtYWlscw=="}\n'
+Received type: 
+base64
+Received encoded value: 
+QXJnb3Nfc3RyZXdzX2VtYWlscw==
+[DEBUG] Sent 0x23 bytes:
+    b'{"decoded": "Argos_strews_emails"}\n'
+[DEBUG] Received 0x4e bytes:
+    b'{"type": "bigint", "encoded": "0x626f6f6769655f646170706c655f56616c61726965"}\n'
+Received type: 
+bigint
+Received encoded value: 
+0x626f6f6769655f646170706c655f56616c61726965
+[DEBUG] Sent 0x25 bytes:
+    b'{"decoded": "boogie_dapple_Valarie"}\n'
+[DEBUG] Received 0x57 bytes:
+    b'{"type": "hex", "encoded": "696e7465727363686f6c61737469635f676c6f76696e675f4c617070"}\n'
+Received type: 
+hex
+Received encoded value: 
+696e7465727363686f6c61737469635f676c6f76696e675f4c617070
+[DEBUG] Sent 0x2c bytes:
+    b'{"decoded": "interscholastic_gloving_Lapp"}\n'
+[DEBUG] Received 0x5d bytes:
+    b'{"type": "hex", "encoded": "696e7465726465706172746d656e74616c5f4475666679735f44616d6f6e73"}\n'
+Received type: 
+hex
+Received encoded value: 
+696e7465726465706172746d656e74616c5f4475666679735f44616d6f6e73
+[DEBUG] Sent 0x2f bytes:
+    b'{"decoded": "interdepartmental_Duffys_Damons"}\n'
+[DEBUG] Received 0x55 bytes:
+    b'{"type": "hex", "encoded": "61636869657665735f676c656566756c6c795f6a7562696c616e74"}\n'
+Received type: 
+hex
+Received encoded value: 
+61636869657665735f676c656566756c6c795f6a7562696c616e74
+[DEBUG] Sent 0x2b bytes:
+    b'{"decoded": "achieves_gleefully_jubilant"}\n'
+[DEBUG] Received 0xa4 bytes:
+    b'{"type": "utf-8", "encoded": [77, 97, 117, 114, 105, 116, 105, 117, 115, 95, 102, 97, 105, 108, 115, 95, 104, 97, 101, 109, 111, 112, 104, 105, 108, 105, 97, 115]}\n'
+Received type: 
+utf-8
+Received encoded value: 
+[77, 97, 117, 114, 105, 116, 105, 117, 115, 95, 102, 97, 105, 108, 115, 95, 104, 97, 101, 109, 111, 112, 104, 105, 108, 105, 97, 115]
+[DEBUG] Sent 0x2c bytes:
+    b'{"decoded": "Mauritius_fails_haemophilias"}\n'
+[DEBUG] Received 0x29 bytes:
+    b'{"flag": "crypto{3nc0d3_d3c0d3_3nc0d3}"}\n'
